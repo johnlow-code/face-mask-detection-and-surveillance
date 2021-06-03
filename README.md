@@ -6,11 +6,17 @@ The authorities may then use the information collected in the spreadsheet to sen
 
 # Requirements
 pip install opencv-python
+
 pip install numpy
+
 pip install tensorflow
+
 pip install scikit-learn
+
 pip install imutils
+
 pip install matplotlib
+
 pip install numpy
 
 # Dataset links
