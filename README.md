@@ -19,6 +19,8 @@ pip install matplotlib
 
 pip install numpy
 
-# Dataset links
+# Dataset links for masked and unmasked face sets
+https://bit.ly/34Gh5ab
+
 credits to Maskedface-Net for the no mask and masked dataset to train the model.
 https://github.com/cabani/MaskedFace-Net
