@@ -20,7 +20,9 @@ pip install matplotlib
 pip install numpy
 
 # Dataset links for masked and unmasked face sets
+Contains two folders of masked and unmasked datasets. Simple place the pictures in to the masked and without mask folder in the project file will do.
+
 https://bit.ly/34Gh5ab
 
-credits to Maskedface-Net for the no mask and masked dataset to train the model.
+Credits to Maskedface-Net for the no mask and masked dataset to train the model:
 https://github.com/cabani/MaskedFace-Net
